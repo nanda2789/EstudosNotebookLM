@@ -1,4 +1,4 @@
-# EstudosNotebookLM# 📘 Miniguia de Estudos — Renda Fixa vs. Renda Variável 
+ 📘 Miniguia de Estudos — Renda Fixa vs. Renda Variável 
 
 Projeto prático do desafio **"Explorando a IA como Ferramenta de Aprendizagem Ativa"** (DIO), no qual utilizei o **NotebookLM** para construir um caderno temático sobre investimentos básicos, aplicando curadoria de fontes, engenharia de prompts e organização do conhecimento.
 
