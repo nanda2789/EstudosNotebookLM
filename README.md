@@ -28,9 +28,6 @@ Selecionei 3 fontes abertas e institucionais (bolsa e órgãos reguladores), evi
 | 2 | CVM — Caderno do Investidor nº 3: Fundos de Investimento (*caderno cvm.pdf*) | PDF | https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/cadernos/cvm-caderno-03-3ed.pdf |
 | 3 | Banco Central do Brasil — Caderno de Educação Financeira: Gestão de Finanças Pessoais (*caderno_cidadania_financeira.pdf*) | PDF | https://www.bcb.gov.br/pre/pef/port/caderno_cidadania_financeira.pdf |
 
-> 💡 A página web foi adicionada ao NotebookLM pela opção **"Website"** (colando a URL), e os PDFs foram baixados e adicionados via **"Upload"**.
-
-![Caderno criado no NotebookLM com as 3 fontes](./assets/notebooklm-fontes.png)
 
 ---
 
