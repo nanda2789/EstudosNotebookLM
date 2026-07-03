@@ -127,7 +127,8 @@ incluindo gabarito e a fonte de cada resposta."
 
 ## 🧠 5. Reflexão final
 
-Esse exercício mostrou o valor do NotebookLM como ferramenta de **aprendizagem ativa**: em vez de receber respostas prontas, a curadoria das fontes, a formulação de perguntas estratégicas e os testes de variações de prompt exigem pensamento crítico constante. Um achado importante foi perceber que instruções de restrição de fonte escritas em texto livre ("baseado apenas em...") nem sempre são respeitadas pelo modelo — é preciso usar os controles da própria interface (seleção de fontes) para garantir isso de fato. Isso reforça o hábito de verificação: a IA funciona aqui como uma interface de navegação e síntese sobre material previamente validado, não como fonte de verdade absoluta.
+Esse exercício mostrou o valor do NotebookLM como ferramenta de **aprendizagem ativa**: em vez de receber respostas prontas, a curadoria das fontes, a formulação de perguntas estratégicas e os testes de variações de prompt exigem pensamento crítico constante. Um achado importante foi perceber que instruções de restrição de fonte escritas em texto livre  — é preciso usar os controles da própria interface (seleção de fontes) para garantir isso de fato. Isso reforça o hábito de verificação: a IA funciona aqui como uma interface de navegação e síntese sobre material previamente validado, não como fonte de verdade absoluta.
+Sobre a plataforma, gerar os testes para validar o conhecimento com base nas fontes, é algo que achei sensacional.
 
 ---
 
