@@ -141,4 +141,4 @@ Esse exercício mostrou o valor do NotebookLM como ferramenta de **aprendizagem 
 ---
 
 ## 👤 Autor
-*[Seu nome aqui]* — projeto desenvolvido para o desafio de projeto da [DIO](https://www.dio.me/).
+*Fernanda Fernandes Bezerra*   — projeto desenvolvido para o desafio de projeto da [DIO](https://www.dio.me/).
